@@ -1,0 +1,10 @@
+{
+	"name" : "username-js",
+	"version" : "1.0.0",
+	"description" : "Asks a user's name and says hello.",
+	"main" : "username.js",
+	"scripts" : {
+		"start" : "node username.js"
+	},
+	"author" : "Cameron Barker"
+}
